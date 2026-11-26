@@ -19,35 +19,6 @@ Here are some ideas to get you started:
   />
 </div>
 
-
-## 🐍 Contribution Snake | Mis contribuciones
-
-<div align="center">
-
-<picture>
-  <source media="(prefers-color-scheme: dark)"
-    srcset="https://raw.githubusercontent.com/abraham-cardenas/abraham-cardenas/output/github-snake-dark.svg" />
-
-  <source media="(prefers-color-scheme: light)"
-    srcset="https://raw.githubusercontent.com/abraham-cardenas/abraham-cardenas/output/github-snake.svg" />
-
-  <img alt="GitHub contribution snake"
-    src="https://raw.githubusercontent.com/abraham-cardenas/abraham-cardenas/output/github-snake.svg" />
-</picture>
-
-</div>
-
-
-## 🌐 3D Contributions | Actividad en 3D
-
-<div align="center">
-
-<img width="100%"
-     src="./profile-3d-contrib/profile-night-view.svg"
-     alt="GitHub 3D Contribution Calendar" />
-
-</div>
-
 ---
 
 ## 👨‍💻 About me | Sobre mí
@@ -74,6 +45,37 @@ Experienced in developing and maintaining institutional applications at DANE, wi
 - Gestión de bases de datos y procesamiento de información.
 - Functional testing and framework upgrades.
 - Pruebas funcionales y actualización de frameworks.
+
+---
+
+## 🐍 Contribution Snake | Mis contribuciones
+
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)"
+    srcset="https://raw.githubusercontent.com/abraham-cardenas/abraham-cardenas/output/github-snake-dark.svg" />
+
+  <source media="(prefers-color-scheme: light)"
+    srcset="https://raw.githubusercontent.com/abraham-cardenas/abraham-cardenas/output/github-snake.svg" />
+
+  <img alt="GitHub contribution snake"
+    src="https://raw.githubusercontent.com/abraham-cardenas/abraham-cardenas/output/github-snake.svg" />
+</picture>
+
+</div>
+
+---
+
+## 🌐 3D Contributions | Actividad en 3D
+
+<div align="center">
+
+<img width="100%"
+     src="./profile-3d-contrib/profile-night-view.svg"
+     alt="GitHub 3D Contribution Calendar" />
+
+</div>
 
 ---
 
