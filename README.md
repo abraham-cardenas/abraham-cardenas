@@ -10,11 +10,15 @@ Here are some ideas to get you started:
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 <!-- HEADER -->
+
 <div align="center">
-  <img src="./assets/banner.png"
-       width="100%"
-       alt="Abraham Cárdenas - Full Stack Developer" />
+  <img
+    src="https://raw.githubusercontent.com/abraham-cardenas/abraham-cardenas/main/assets/banner.png"
+    width="100%"
+    alt="Abraham Cárdenas - Full Stack Developer"
+  />
 </div>
+
 
 ---
 
