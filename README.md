@@ -20,6 +20,23 @@ Here are some ideas to get you started:
 </div>
 
 
+## 🐍 Contribution Snake | Mis contribuciones
+
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)"
+    srcset="https://raw.githubusercontent.com/abraham-cardenas/abraham-cardenas/output/github-snake-dark.svg" />
+
+  <source media="(prefers-color-scheme: light)"
+    srcset="https://raw.githubusercontent.com/abraham-cardenas/abraham-cardenas/output/github-snake.svg" />
+
+  <img alt="GitHub contribution snake"
+    src="https://raw.githubusercontent.com/abraham-cardenas/abraham-cardenas/output/github-snake.svg" />
+</picture>
+
+</div>
+
 ---
 
 ## 👨‍💻 About me | Sobre mí
