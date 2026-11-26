@@ -11,29 +11,9 @@ Here are some ideas to get you started:
 - 🤔 I’m looking for help with ...
 <!-- HEADER -->
 <div align="center">
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:080f1e,100:0284c7&height=210&section=header&text=Abraham%20C%C3%A1rdenas&fontSize=40&fontColor=ffffff&desc=Systems%20Engineer%20%7C%20Software%20Developer&descSize=17&descAlignY=65" alt="Abraham Cárdenas" />
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=21&pause=1000&color=38BDF8&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;Backend+%26+Web+Development;Software+Architecture;Building+the+future+through+code" alt="Professional interests" />
-
-<!-- SOCIAL NETWORKS -->
-
-<a href="https://www.linkedin.com/in/abrahamcardenaslinkprofecional">
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-</a>
-
-<a href="mailto:abrahamcar098@gmail.com">
-  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
-</a>
-
-<a href="https://github.com/abraham-cardenas">
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-</a>
-
-<br>
-
-<img src="https://komarev.com/ghpvc/?username=abraham-cardenas&color=0284c7&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile views" />
-
+  <img src="./assets/banner.png"
+       width="100%"
+       alt="Abraham Cárdenas - Full Stack Developer" />
 </div>
 
 ---
