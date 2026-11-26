@@ -67,18 +67,6 @@ Experienced in developing and maintaining institutional applications at DANE, wi
 
 ---
 
-## 🌐 3D Contributions | Actividad en 3D
-
-<div align="center">
-
-<img width="100%"
-     src="./profile-3d-contrib/profile-night-view.svg"
-     alt="GitHub 3D Contribution Calendar" />
-
-</div>
-
----
-
 ## ⚡ Tech stack | Tecnologías
 
 ### 💻 Programming languages
@@ -171,14 +159,6 @@ Experienced in developing and maintaining institutional applications at DANE, wi
 <div align="center">
 
 <img width="75%" src="https://streak-stats.demolab.com?user=abraham-cardenas&theme=tokyonight&hide_border=true" alt="Contribution streak" />
-
-</div>
-
-### 📈 Contribution activity
-
-<div align="center">
-
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=abraham-cardenas&theme=tokyo-night&hide_border=true" alt="Contribution activity graph" />
 
 </div>
 
